@@ -31,4 +31,4 @@ This project implements redux for management state.
 
 This is screenShot for this app.
 
-![ScreenShot for this app](image.png)
+![ScreenShot for this app](Imagen.png)
